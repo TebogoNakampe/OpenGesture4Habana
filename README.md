@@ -45,7 +45,7 @@ Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineI
 * Preparation
 	* Install Requirements
 		```bash
-		git clone https://github.com/AfricaMachineIntelligence/opengesture.git
+		git clone https://github.com/TebogoNakampe/OpenGesture4Habana.git
 		cd OpenGesture4Habana
 		```
 * Run

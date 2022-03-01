@@ -39,7 +39,7 @@ Depth                 |  Color
 
 Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>
 
-* [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) - This notebook includes all the necessary scripts required to train a custom classifier the gesture.blob using TensorFlow and Keras for and also includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob using AWS EC2 DL1 instances.
+* [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) -  We apply transfer learning technique to retrain a model that has already been trained on a related task and reusing it train a custom deep learning model to recognize Sign Language Digits. OpenGesture image recognition model is built using Tensorflow and Keras for classifying ten signs of gestures by using the computational power of AWS EC2 DL1 instances powered by Gaudi AI Processors / Accelerators. This notebook includes all the necessary scripts required to train a custom model.
 
 ## Running the OpenGesture for South African Sign Language 
 * Preparation

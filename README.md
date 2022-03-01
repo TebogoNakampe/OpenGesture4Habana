@@ -1,4 +1,4 @@
-# OpenGesture using Habana DLI Instances oN AWS
+# OpenGesture using Habana DLI Instances on AWS
 OpenGesture for Africa Sign Language Detection using Habana Gaudi Accelerators
 # OpenGesture for African Sign Language 
 Platform | Build Status |

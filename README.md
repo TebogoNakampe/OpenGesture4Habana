@@ -41,4 +41,12 @@ Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineI
 
 * [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) - This notebook includes all the necessary scripts required to train a custom classifier the gesture.blob using TensorFlow and Keras for and also includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob using AWS EC2 DL1 instances.
 
-
+## Running the OpenGesture for South African Sign Language 
+* Preparation
+	* Install Requirements
+		```bash
+		git clone https://github.com/AfricaMachineIntelligence/opengesture.git
+		cd OpenGesture4Habana
+		```
+* Run
+	* Use Jupyter notebook [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) to train the Deep Learning Model with AWS EC2 DL1 instances.

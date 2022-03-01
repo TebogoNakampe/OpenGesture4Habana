@@ -38,3 +38,5 @@ Depth                 |  Color
 
 
 Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>
+
+* [Image Classification Custom Model: OpenGesture ASL](OpenVINO_+_OpenCV_OAK_Tensorflow_Gesture_Classification.ipynb) - This notebook includes all the necessary scripts required to train a custom classifier the gesture.blob using TensorFlow and Keras for and also includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob.

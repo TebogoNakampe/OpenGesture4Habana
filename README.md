@@ -24,17 +24,17 @@ Depth                 |  Color
 
 #### African Languages Labels
 
-| ENGLISH      | SETSWANA       | ZULU               | XHOSA         |
-| :---         |     :---:      |      :---:         |     :---:     |
-| One          | Nngwe          | Kunye              | Inye          |
-| Two          | Pedi           | Kubili             | Zimbini       |
-| Three        | Tharo          | Kuthathu           | Zintathu      |
-| Four         | Nne            | Kune               | Zine          |
-| Five         | Tlhano         | Kuhlanu            | Zintlanu      |
-| Six          | Thataro        | Isithupha          | Zintandathu   |
-| Seven        | Supa           | Isikhombisa        | Isixhenxe     |
-| Eight        | Robedi         | Isishiyagalombili  | Sisibhozo     |
-| Nine         | Robongwe       | Isishiyagalolunye  | Lithoba       |
+| ENGLISH      | SETSWANA       | ZULU               | XHOSA         | SWAHILI       | YORUBA        |
+| :---         |     :---:      |      :---:         |     :---:     |     :---:     |     :---:     |
+| One          | Nngwe          | Kunye              | Inye          | Mmoja	     | Okan          |
+| Two          | Pedi           | Kubili             | Zimbini       | Mbili         | Eji	     |
+| Three        | Tharo          | Kuthathu           | Zintathu      | Tatu          | Eta           |
+| Four         | Nne            | Kune               | Zine          | Nne           | Erin          | 
+| Five         | Tlhano         | Kuhlanu            | Zintlanu      | Tano          | Arun          |
+| Six          | Thataro        | Isithupha          | Zintandathu   | Sita          | Efa           |
+| Seven        | Supa           | Isikhombisa        | Isixhenxe     | Saba          | Eje           |
+| Eight        | Robedi         | Isishiyagalombili  | Sisibhozo     | Nane          | Ejo           |
+| Nine         | Robongwe       | Isishiyagalolunye  | Lithoba       | Tisa          | Esan          |
 
 
 Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>

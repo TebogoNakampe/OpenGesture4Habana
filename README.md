@@ -49,4 +49,4 @@ Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineI
 		cd OpenGesture4Habana
 		```
 * Run
-	* Use Jupyter notebook [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) to train the Deep Learning Model with AWS EC2 DL1 instances.
+	* Use Jupyter notebook [Image Classification Custom Model: OpenGesture4Habana](PlanetGesture-AWS-Habana.ipynb) to train the OpenGesture Deep Learning Model with AWS EC2 DL1 instances.
